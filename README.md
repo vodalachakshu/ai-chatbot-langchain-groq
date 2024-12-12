@@ -10,5 +10,5 @@ This is an AI-powered chatbot project using LangChain for memory and orchestrati
 ## Setup Instructions
 
 Clone the repository:
-- git clone https://github.com/your-username/ai-chatbot-langchain-groq.git
+- git clone https://github.com/vodalachakshu/ai-chatbot-langchain-groq.git
 - cd ai-chatbot-langchain-groq
